@@ -1,0 +1,17 @@
+@font-face {
+  font-family: 'Regular';
+  src: url('./PingFangSC-Regular.woff2') format('woff2');
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Semibold';
+  src: url('./PingFangSC-Semibold.woff2') format('woff2');
+  font-style: normal;
+}
+
+.hello {
+  color: red;
+  /* font-family: 'Regular'; */
+  background: url('./icon.gif');
+}
